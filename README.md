@@ -9,6 +9,7 @@ Hi, I’m Rohan, a CSE student at United International University in Bangladesh.
 - Learning component-based frontend development
 - Building useful web-app prototypes with AI assistance
 - Improving my problem-solving and business execution skills
+- Practising Git branches and pull requests
 
 ## Current Projects
 
